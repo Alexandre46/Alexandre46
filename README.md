@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Alexandre Abreu - Fullstack developer
+
+<a href="https://app.daily.dev/Alexandreabreu4"><img src="https://api.daily.dev/devcards/48c3417ebf3b4b3c8d7738fc110155da.png?r=ceo" width="400" alt="Alexandre Abreu's Dev Card"/></a>
+
 <!--
 **Alexandre46/Alexandre46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
